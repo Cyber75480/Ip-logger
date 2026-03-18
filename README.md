@@ -14,10 +14,13 @@ This project helps you understand how IP tracking works and how connections are 
 ---
 
 ## 🚀 Usage
-1. Clone the repository
-2. Run the script
-3. Share the generated link
-4. View captured IP details
+
+```bash
+git clone {link}
+cd Ip-logger
+chmod +x run.sh
+bash run.sh
+```
 
 ---
 
