@@ -16,7 +16,7 @@ This project helps you understand how IP tracking works and how connections are 
 ## 🚀 Usage
 
 ```bash
-git clone {link}
+git clone https://github.com/Cyber75480/Ip-logger.git
 cd Ip-logger
 chmod +x run.sh
 bash run.sh
